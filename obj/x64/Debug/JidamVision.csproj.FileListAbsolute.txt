@@ -1,0 +1,98 @@
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVision.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVision.CameraForm.resources
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVision.ImageViewCCtrl.resources
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVision.LogForm.resources
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVision.MainForm.resources
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVision.PropertiesForm.resources
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVision.Properties.Resources.resources
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVision.ResultForm.resources
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVision.csproj.GenerateResource.cache
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVision.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\JidamVision.exe.config
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\JidamVision.exe
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\JidamVision.pdb
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\MvCameraControl.Net.dll
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\System.Buffers.dll
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\System.Memory.dll
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\System.Buffers.xml
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\System.Drawing.Common.pdb
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\System.Drawing.Common.xml
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVis.ED1C3B2A.Up2Date
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVision.exe
+C:\Users\user\source\repos\JidamVision-BaseVision\JidamVision-BaseVision\JidamVision\obj\x64\Debug\JidamVision.pdb
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\JidamVision.exe.config
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\JidamVision.exe
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\JidamVision.pdb
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\MvCameraControl.Net.dll
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Buffers.dll
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Memory.dll
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Buffers.xml
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Drawing.Common.pdb
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Drawing.Common.xml
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.CameraForm.resources
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.ImageViewCCtrl.resources
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.LogForm.resources
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.MainForm.resources
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.PropertiesForm.resources
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.Properties.Resources.resources
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.ResultForm.resources
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.csproj.GenerateResource.cache
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVis.ED1C3B2A.Up2Date
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.exe
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.pdb
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.Property.MatchInspProp.resources
+C:\Users\user\Desktop\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.Property.BinaryInspProp.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.csproj.AssemblyReference.cache
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.CameraForm.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.ImageViewCCtrl.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.LogForm.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.MainForm.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.PropertiesForm.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.Properties.Resources.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.Property.BinaryInspProp.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.Property.MatchInspProp.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.ResultForm.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.csproj.GenerateResource.cache
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.csproj.CoreCompileInputs.cache
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\JidamVision.exe.config
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\JidamVision.exe
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\JidamVision.pdb
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\MvCameraControl.Net.dll
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\OpenCvSharp.dll
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\OpenCvSharp.Extensions.dll
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Buffers.dll
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Drawing.Common.dll
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Memory.dll
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Buffers.xml
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Drawing.Common.pdb
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Drawing.Common.xml
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVis.ED1C3B2A.Up2Date
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.exe
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.pdb
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.Property.FilterInspProp.resources
