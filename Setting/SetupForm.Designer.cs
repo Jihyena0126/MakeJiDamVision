@@ -1,6 +1,6 @@
-﻿namespace JidamVision.Util
+﻿namespace JidamVision.Setting
 {
-    partial class ModelTreeForm
+    partial class SetupForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,31 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.tvModelTree = new System.Windows.Forms.TreeView();
+            this.tabSetting = new System.Windows.Forms.TabControl();
             this.SuspendLayout();
             // 
-            // tvModelTree
+            // tabSetting
             // 
-            this.tvModelTree.Location = new System.Drawing.Point(23, 12);
-            this.tvModelTree.Name = "tvModelTree";
-            this.tvModelTree.Size = new System.Drawing.Size(490, 438);
-            this.tvModelTree.TabIndex = 0;
-            this.tvModelTree.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tvModelTree_MouseDown);
+            this.tabSetting.Location = new System.Drawing.Point(17, 18);
+            this.tabSetting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabSetting.Name = "tabSetting";
+            this.tabSetting.SelectedIndex = 0;
+            this.tabSetting.Size = new System.Drawing.Size(704, 543);
+            this.tabSetting.TabIndex = 0;
             // 
-            // ModelTreeForm
+            // SetupForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.tvModelTree);
-            this.Name = "ModelTreeForm";
-            this.Text = "ModelTree";
+            this.ClientSize = new System.Drawing.Size(739, 579);
+            this.Controls.Add(this.tabSetting);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Name = "SetupForm";
+            this.Text = "SetupForm";
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.TreeView tvModelTree;
+        private System.Windows.Forms.TabControl tabSetting;
     }
 }

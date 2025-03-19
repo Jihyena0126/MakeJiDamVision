@@ -1,4 +1,6 @@
 ﻿using JidamVision.Core;
+using JidamVision.Setting;
+using JidamVision.Util;
 using OpenCvSharp;
 using System;
 using System.Collections.Generic;
@@ -47,6 +49,10 @@ namespace JidamVision
             //검사 결과창 30% 비율로 추가
             var resultWindow = new ResultForm();
             resultWindow.Show(cameraWindow.Pane, DockAlignment.Bottom, 0.3);
+
+            //# MODEL TREE#3 검사 결과창 우측에 40% 비율로 모델트리 추가
+            var modelTreeWindow = new ModelTreeForm();
+            modelTreeWindow.Show(resultWindow.Pane, DockAlignment.Right, 0.4);
 
             //속성창 추가
             var propWindow = new PropertiesForm();
@@ -112,6 +118,13 @@ namespace JidamVision
                     Global.Inst.InspStage.SaveCurrentImage(filePath);
                 }
             }
+        }
+
+        //#SETUP#8 메인메뉴에 Setup 메뉴 추가하고, 아래 함수로 환경설정창 띄우기
+        private void setupToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            SetupForm setupForm = new SetupForm();
+            setupForm.ShowDialog();
         }
     }
 }

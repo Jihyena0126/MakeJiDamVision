@@ -14,6 +14,7 @@ using System.Web;
 using JidamVision.Teach;
 using System.IO;
 using OpenCvSharp;
+using static JidamVision.ImageViewCCtrl;
 
 namespace JidamVision
 {

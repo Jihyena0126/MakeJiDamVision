@@ -498,11 +498,12 @@ namespace JidamVision.Grab
         {
             if (_disposed)
                 return;
-
+            
             if (disposing)
             {
                 Close();
-                _camera.MV_CC_DestroyDevice_NET();
+                if (_camera != null)
+                { _camera.MV_CC_DestroyDevice_NET(); }
             }
             _disposed = true;
         }

@@ -96,3 +96,7 @@ D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVis.
 D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.exe
 D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.pdb
 D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.Property.FilterInspProp.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.Util.ModelTreeForm.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.Setting.CameraSetting.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.Setting.PathSetting.resources
+D:\25.03.07\25.02.27 작성한 코드(Jidam)\JidamVision\obj\x64\Debug\JidamVision.Setting.SetupForm.resources

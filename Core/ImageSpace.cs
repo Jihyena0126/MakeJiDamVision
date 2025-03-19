@@ -20,6 +20,8 @@ namespace JidamVision.Core
         Red,
         Green,
         Blue,
+        DarkRed,
+        DarkSlateGray,
         ChannelCount,
     }
 
@@ -241,7 +243,9 @@ namespace JidamVision.Core
                         { eImageChannel.Red, newImageInfo(8) },
                         { eImageChannel.Green, newImageInfo(8) },
                         { eImageChannel.Blue, newImageInfo(8) },
-                        { eImageChannel.Gray, newImageInfo(8) }
+                        { eImageChannel.Gray, newImageInfo(8) },
+                        { eImageChannel.DarkRed, newImageInfo(8) },
+                        { eImageChannel.DarkSlateGray, newImageInfo(8) }
                     };
 
                     _imageByChannel.Add(i, imageByChannel);
